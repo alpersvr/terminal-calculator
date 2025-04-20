@@ -1,5 +1,4 @@
-# Terminal Calculator Project for SWE 202 SOFTWARE VERIFICATION AND
-VALIDATION
+# Terminal Calculator Project for SWE 202 SOFTWARE VERIFICATION AND VALIDATION
 
 A Java application with a terminal-based calculator.
 
